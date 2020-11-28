@@ -16,6 +16,9 @@
             <nuxt-link to="/site" class="navbar-item">
               This Site
             </nuxt-link>
+            <a href="https://akira-todo.netlify.app/" target="_blank" class="navbar-item">
+              Todoリスト
+            </a>
             <a href="https://github.com/AI1411" target="_blank" class="navbar-item">
               Github
             </a>
