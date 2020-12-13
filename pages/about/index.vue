@@ -22,11 +22,6 @@
         </span>
           明治大学法学部法律学科卒
         </a>
-        <a class="panel-block">
-        <span class="panel-icon">
-        </span>
-          2019年よりwebエンジニアに転身
-        </a>
       </div>
       <div>
         <article class="message is-primary">
@@ -38,13 +33,13 @@
         <span class="panel-icon">
           <i class="fab fa-laravel"></i>
         </span>
-          Laravel(PHP)2年
+          Laravel(PHP)3年
         </a>
         <a class="panel-block">
         <span class="panel-icon">
           <i class="fas fa-book" aria-hidden="true"></i>
         </span>
-          HTML/CSS/JavaScript　２年
+          HTML/CSS/JavaScript 2年
         </a>
         <a class="panel-block">
           <span class="panel-icon">
